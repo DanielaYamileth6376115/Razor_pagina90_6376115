@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Sistema de Gestión Razor</title>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-sb-admin-2/4.1.4/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+<body id="page-top">
+
+    <div id="wrapper">
+
+        <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+            
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/">
+                <div class="sidebar-brand-icon rotate-n-15"></div>
+                <div class="sidebar-brand-text mx-3">Dashboard</div>
+            </a>
+
+            <hr class="sidebar-divider my-0">
+
+            <li class="nav-item active">
+                <a class="nav-link" asp-page="/Index">
+                    <span>Gestion - Razor</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Oficina">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Oficinas</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/CrearOficionas">
+                    <i class="fas fa-fw fa-plus-circle"></i>
+                    <span>Crear Oficina</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Empleados/Index">
+                    <i class="fas fa-fw fa-chart-area"></i>
+                    <span>Empleados</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Empleados/AgregarEmpleados">
+                    <i class="fas fa-fw fa-plus-circle"></i>
+                    <span>Agregar Empleados</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Empleados/Contabilidad">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Contabilidad</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Cliente">
+                    <i class="fas fa-fw fa-users"></i>
+                    <span>Clientes</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/CrearCliente">
+                    <i class="fas fa-fw fa-plus-circle"></i>
+                    <span>Crear Cliente</span>
+                </a>
+            </li>
+
+        </ul>
+
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <div id="content" style="padding: 40px;">
+                @RenderBody()
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-sb-admin-2/4.1.4/js/sb-admin-2.min.js"></script></body>
+</html>

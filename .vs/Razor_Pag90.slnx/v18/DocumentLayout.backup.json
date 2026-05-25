@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\cliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\cliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\oficina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\oficina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\oficina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\oficina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearoficionas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearoficionas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\data\\razor_pag90context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\data\\razor_pag90context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearoficionas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearoficionas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Razor_Pag90Context_1a716b80_4045_471e_bf5a_15a22194c563/True/SqlTable/dbo.Oficina.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Razor_Pag90Context_1a716b80_4045_471e_bf5a_15a22194c563/True/SqlTable/dbo.Empleado.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\empleados\\contabilidad.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\empleados\\contabilidad.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\migrations\\20260524045013_agregaroficinasyclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\migrations\\20260524045013_agregaroficinasyclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\migrations\\20260524034401_creaciondecrearempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\migrations\\20260524034401_creaciondecrearempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\migrations\\20260524032919_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\migrations\\20260524032919_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\crearempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\crearempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 5\\razor_pag90\\razor_pag90\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85DA1D5-EF64-FCDA-BDE7-B89DE2717E78}|Razor_Pag90\\Razor_Pag90.csproj|solutionrelative:razor_pag90\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oficina.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Oficina.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Oficina.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Oficina.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Oficina.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T05:12:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oficina.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Oficina.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Oficina.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Oficina.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Oficina.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:13:29.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0oAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T01:59:47.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Cliente.cs",
+              "RelativeToolTip": "Razor_Pag90\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:46:43.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Oficina.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Models\\Oficina.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Oficina.cs",
+              "RelativeToolTip": "Razor_Pag90\\Models\\Oficina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:46:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Cliente.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Cliente.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T22:14:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Cliente.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Cliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Cliente.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Cliente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T22:16:40.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrearOficionas.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearOficionas.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearOficionas.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearOficionas.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearOficionas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T21:32:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearCliente.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearCliente.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:56:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearCliente.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearCliente.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearCliente.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearCliente.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T21:56:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrearOficionas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearOficionas.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearOficionas.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearOficionas.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearOficionas.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:58:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Razor_Pag90Context.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Data\\Razor_Pag90Context.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Data\\Razor_Pag90Context.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Data\\Razor_Pag90Context.cs",
+              "RelativeToolTip": "Razor_Pag90\\Data\\Razor_Pag90Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:23:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Oficina [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Razor_Pag90Context_1a716b80_4045_471e_bf5a_15a22194c563/True/SqlTable/dbo.Oficina.sql",
+              "ToolTip": "dbo.Oficina [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-24T21:24:48.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Empleado.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Razor_Pag90Context_1a716b80_4045_471e_bf5a_15a22194c563/True/SqlTable/dbo.Empleado.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Razor_Pag90Context_1a716b80_4045_471e_bf5a_15a22194c563/True/SqlTable/dbo.Empleado.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-24T03:54:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrearEmpleados.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearEmpleados.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearEmpleados.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearEmpleados.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearEmpleados.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:23:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contabilidad.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:01:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Empleados\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Empleados\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:10:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contabilidad.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Empleados\\Contabilidad.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T05:00:30.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T04:10:29.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgregarEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T01:45:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260524045013_AgregarOficinasYClientes.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524045013_AgregarOficinasYClientes.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Migrations\\20260524045013_AgregarOficinasYClientes.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524045013_AgregarOficinasYClientes.cs",
+              "RelativeToolTip": "Razor_Pag90\\Migrations\\20260524045013_AgregarOficinasYClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:50:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260524034401_CreacionDeCrearEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524034401_CreacionDeCrearEmpleados.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Migrations\\20260524034401_CreacionDeCrearEmpleados.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524034401_CreacionDeCrearEmpleados.cs",
+              "RelativeToolTip": "Razor_Pag90\\Migrations\\20260524034401_CreacionDeCrearEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:44:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Models\\Empleado.cs",
+              "RelativeToolTip": "Razor_Pag90\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T01:28:01.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260524032919_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524032919_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Migrations\\20260524032919_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Migrations\\20260524032919_InitialCreate.cs",
+              "RelativeToolTip": "Razor_Pag90\\Migrations\\20260524032919_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:29:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CrearEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearEmpleados.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\CrearEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\CrearEmpleados.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\CrearEmpleados.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T03:23:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Program.cs",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Program.cs",
+              "RelativeToolTip": "Razor_Pag90\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T03:23:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Razor_Pag90\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 5\\Razor_Pag90\\Razor_Pag90\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Razor_Pag90\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T02:02:21.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
