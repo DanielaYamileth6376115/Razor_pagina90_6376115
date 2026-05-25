@@ -5,42 +5,37 @@
     Layout = "~/Pages/Shared/_Layout.cshtml";
 }
 
-<div class="d-flex justify-content-between align-items-center mb-4">
-    <h1>Listado de Clientes</h1>
-    <a asp-page="/CrearClientes" class="btn btn-primary">
-        <i class="fas fa-plus"></i> Nuevo Cliente
-    </a>
-</div>
+<h1>Listado de Clientes</h1>
 
-<div class="card shadow mb-4">
-    <div class="card-body">
-        <div class="table-responsive">
-            <table class="table table-bordered" width="100%" cellspacing="0">
-                <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>Nombre del Cliente</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @if (Model.ListaClientes != null && Model.ListaClientes.Any())
-                    {
-                        @foreach (var cliente in Model.ListaClientes)
-                        {
-                            <tr>
-                                <td>@cliente.Id</td>
-                                <td>@cliente.Nombre</td>
-                            </tr>
-                        }
-                    }
-                    else
-                    {
-                        <tr>
-                            <td colspan="2" class="text-center">No hay clientes registrados aún.</td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-    </div>
-</div>
+<p>
+    <a asp-page="/CrearCliente" class="btn btn-primary">Crear Nuevo Cliente</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre del Cliente</th>
+            <th>Email del Cliente</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListaClientes != null && Model.ListaClientes.Any())
+        {
+            @foreach (var cliente in Model.ListaClientes)
+            {
+                <tr>
+                    <td>@cliente.Id</td>
+                    <td>@cliente.Nombre</td>
+                    <td>@cliente.Email</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" class="text-center">No hay clientes registrados aún.</td>
+            </tr>
+        }
+    </tbody>
+</table>

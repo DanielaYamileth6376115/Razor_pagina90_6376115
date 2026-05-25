@@ -5,44 +5,37 @@
     Layout = "~/Pages/Shared/_Layout.cshtml";
 }
 
-<div class="d-flex justify-content-between align-items-center mb-4">
-    <h1>Listado de Oficinas</h1>
-    <a asp-page="/CrearOficionas" class="btn btn-primary">
-        <i class="fas fa-plus"></i> Nueva Oficina
-    </a>
-</div>
+<h1>Listado de Oficinas</h1>
 
-<div class="card shadow mb-4">
-    <div class="card-body">
-        <div class="table-responsive">
-            <table class="table table-bordered" width="100%" cellspacing="0">
-                <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>Nombre de la Oficina</th>
-                        <th>Dirección</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @if (Model.ListaOficinas != null && Model.ListaOficinas.Any())
-                    {
-                        @foreach (var oficina in Model.ListaOficinas)
-                        {
-                            <tr>
-                                <td>@oficina.Id</td>
-                                <td>@oficina.Nombre</td>
-                                <td>@oficina.Direccion</td>
-                            </tr>
-                        }
-                    }
-                    else
-                    {
-                        <tr>
-                            <td colspan="3" class="text-center">No hay oficinas registradas aún.</td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-    </div>
-</div>
+<p>
+    <a asp-page="/CrearOficionas" class="btn btn-primary">Crear Nueva Oficina</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre de la Oficina</th>
+            <th>Dirección</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.ListaOficinas != null && Model.ListaOficinas.Any())
+        {
+            @foreach (var oficina in Model.ListaOficinas)
+            {
+                <tr>
+                    <td>@oficina.Id</td>
+                    <td>@oficina.Nombre</td>
+                    <td>@oficina.Direccion</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" class="text-center">No hay oficinas registradas aún.</td>
+            </tr>
+        }
+    </tbody>
+</table>
